@@ -67,3 +67,11 @@
 <p align="left">Linkedin: https://www.linkedin.com/in/darkhan-azhibek-094866225/<br>Telegram: @bigward1<br>Email: cryptodarkhan@gmail.com</p>
 
 ###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stetat/stetat/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stetat/stetat/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/stetat/stetat/output/pacman-contribution-graph.svg">
+</picture>
+
+###
