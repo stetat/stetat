@@ -5,6 +5,14 @@
 ###
 
 <div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=stetat.stetat&"  />
 </div>
 
@@ -19,6 +27,14 @@
 ###
 
 <p align="left">I'm Darkhan from Almaty, Kazakhstan 🇰🇿<br><br>- 💻  I'm currently learning backend development ( FastAPI, Redis, Celery, etc.)<br>- 📚 I'm a sophomore at Kazakh-British Technical University, majoring in Information Systems<br>- ⚡ In my free time, I learn about new technologies, play football, and go out to enjoy the beautiful city</p>
+
+###
+
+<h3 align="left">💼 Projects</h3>
+
+###
+
+<p align="left">- AI-powered ToDo telegram bot: https://github.com/stetat/ToDo-bot<br><br>- TikTok wrapped telegram bot: https://github.com/stetat/tiktok-wrapped</p>
 
 ###
 
@@ -57,5 +73,11 @@
 ###
 
 <p align="left">Linkedin: https://www.linkedin.com/in/darkhan-azhibek-094866225/<br>Telegram: @bigward1<br>Email: cryptodarkhan@gmail.com</p>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=stetat.stetat&"  />
+</div>
 
 ###
