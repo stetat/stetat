@@ -67,9 +67,3 @@
 <p align="left">Linkedin: https://www.linkedin.com/in/darkhan-azhibek-094866225/<br>Telegram: @bigward1<br>Email: cryptodarkhan@gmail.com</p>
 
 ###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=stetat.stetat&"  />
-</div>
-
-###
