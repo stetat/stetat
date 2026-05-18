@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">- AI-powered ToDo telegram bot: https://github.com/stetat/ToDo-bot<br><br>- TikTok wrapped telegram bot: https://github.com/stetat/tiktok-wrapped<br><br>- Web development: https://github.com/stetat/Web-Dev</p>
+<p align="left">- Quiz platform (helped over 1000 students prepare for finals): https://docs.google.com/document/d/1OJOi9qVH6Ng6VW1WlW9nPY3CpaUK_HsteHWeUON2r58<br><br>- AI-powered ToDo telegram bot: https://github.com/stetat/ToDo-bot<br><br>- TikTok wrapped telegram bot: https://github.com/stetat/tiktok-wrapped<br><br>- Web development: https://github.com/stetat/Web-Dev</p>
 
 ###
 
