@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Darkhan from Almaty, Kazakhstan 🇰🇿<br><br>- 💻  I'm currently learning backend development ( FastAPI, Redis, Celery, etc.)<br>- 📚 I'm a sophomore at Kazakh-British Technical University, majoring in Information Systems<br>- ⚡ In my free time, I learn new technologies, play football, and go out to enjoy the beautiful city</p>
+<p align="left">I'm Darkhan from Almaty, Kazakhstan 🇰🇿<br><br>- 💻  I'm currently learning backend development mostly on Python<br>- 📚 I'm a sophomore at Kazakh-British Technical University, majoring in Information Systems<br>- ⚡ In my free time, I learn new technologies, play football, and go out to enjoy the beautiful city</p>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">- Quiz platform (helped over 1000 students prepare for finals): https://docs.google.com/document/d/1OJOi9qVH6Ng6VW1WlW9nPY3CpaUK_HsteHWeUON2r58<br><br>- AI-powered ToDo telegram bot: https://github.com/stetat/ToDo-bot<br><br>- TikTok wrapped telegram bot: https://github.com/stetat/tiktok-wrapped<br><br>- Web development: https://github.com/stetat/Web-Dev</p>
+<p align="left">- Quiz platform (helped over 1000 students prepare for finals): <br>https://checkbio.web.app/<br>https://docs.google.com/document/d/1OJOi9qVH6Ng6VW1WlW9nPY3CpaUK_HsteHWeUON2r58<br><br>- AI-powered ToDo telegram bot: https://github.com/stetat/ToDo-bot<br><br>- TikTok wrapped telegram bot: https://github.com/stetat/tiktok-wrapped<br><br>- Web development: https://github.com/stetat/Web-Dev</p>
 
 ###
 
