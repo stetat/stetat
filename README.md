@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Darkhan from Almaty, Kazakhstan 🇰🇿<br><br>- 💻  I'm currently learning backend development mostly on Python<br>- 📚 I'm a sophomore at Kazakh-British Technical University, majoring in Information Systems<br>- ⚡ In my free time, I learn new technologies, play football, and go out to enjoy the beautiful city</p>
+<p align="left">I'm Darkhan from Almaty, Kazakhstan 🇰🇿<br><br>- 💻  I'm currently learning backend development<br>- 📚 I'm a sophomore at Kazakh-British Technical University, majoring in Information Systems<br>- ⚡ In my free time, I learn new technologies, play football, and go out to enjoy the beautiful city</p>
 
 ###
 
