@@ -5,9 +5,9 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://www.linkedin.com/in/darkhan-azhibek-094866225/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
@@ -22,11 +22,19 @@
 
 ###
 
-<h3 align="left">👩‍💻  About  me</h3>
+<h3 align="left">👩‍💻  About me</h3>
 
 ###
 
-<p align="left">I'm Darkhan from Almaty, Kazakhstan 🇰🇿<br><br>- 💻  I'm currently learning backend development<br>- 📚 I'm a sophomore at Kazakh-British Technical University, majoring in Information Systems<br>- ⚡ In my free time, I learn new technologies, play football, and go out to enjoy the beautiful city</p>
+<p align="left">I'm Darkhan from Almaty, Kazakhstan 🇰🇿<br><br>- 🌍 Open source contributor<br>- 💻 I'm currently learning backend development<br>- 📚 I'm a sophomore at Kazakh-British Technical University, majoring in Information Systems<br>- ⚡ In my free time, I learn new technologies, play football, and go out to enjoy the beautiful city</p>
+
+###
+
+<h3 align="left">🌍 Open source</h3>
+
+###
+
+<p align="left">- <a href="https://github.com/vacanza/holidays">vacanza/holidays</a> — maintaining Kazakhstan holiday data for a PyPI library used in payroll and scheduling systems worldwide. Updated 2026 holidays per constitutional law changes (<a href="https://github.com/vacanza/holidays/pull/3690">#3690</a>, merged)</p>
 
 ###
 
@@ -42,7 +50,7 @@
 
 ###
 
-<p align="left">💡I'm looking forward to getting real-world opportunities on projects to make meaningful contributions and grow as a developer.</p>
+<p align="left">💡 I'm contributing to open source projects and building real products to grow into a backend developer who ships things people rely on.</p>
 
 ###
 
@@ -53,7 +61,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/springboot-000000?style=for-the-badge&logo=springboot&logoColor=green" height="40" alt="java logo"  />
+  <img src="https://img.shields.io/badge/springboot-000000?style=for-the-badge&logo=springboot&logoColor=green" height="40" alt="spring boot logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
   <img width="12" />
@@ -77,11 +85,3 @@
 ###
 
 <p align="left">Linkedin: https://www.linkedin.com/in/darkhan-azhibek-094866225/<br>Telegram: @bigward1<br>Email: cryptodarkhan@gmail.com</p>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=stetat.stetat&"  />
-</div>
-
-###
